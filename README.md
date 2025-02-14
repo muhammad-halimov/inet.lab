@@ -1,3 +1,3 @@
 # inet.lab
-# inet.lab
-# inet.lab
+
+В каждом разделе маркдаун(README.md) с объяснениями

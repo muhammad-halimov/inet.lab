@@ -1,7 +1,7 @@
 ## Symfony 7 EasyAdmin Api-Platform template
 
-/admin
-usernam: admin
+- /admin
+username: admin
 password: foo
 
 - rebase .env to .env.local

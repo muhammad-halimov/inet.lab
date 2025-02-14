@@ -1,9 +1,5 @@
 ## Symfony 7 EasyAdmin Api-Platform template
 
-- /admin
-# username: admin
-# password: foo
-
 - rebase .env to .env.local
 - change DATABASE_URL
 
@@ -21,3 +17,6 @@ php bin/console d:s:u -f
 php bin/console lexik:jwt:generate-keypair --overwrite
 
 symfony serve
+```
+
+- /admin - username: admin - password: foo

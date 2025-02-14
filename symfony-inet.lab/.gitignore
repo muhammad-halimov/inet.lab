@@ -9,6 +9,7 @@
 /vendor/
 /.idea
 /.osp
+/.DS_Store
 ###< symfony/framework-bundle ###
 
 ###> phpunit/phpunit ###

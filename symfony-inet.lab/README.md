@@ -1,8 +1,8 @@
 ## Symfony 7 EasyAdmin Api-Platform template
 
 - /admin
-username: admin
-password: foo
+# username: admin
+# password: foo
 
 - rebase .env to .env.local
 - change DATABASE_URL

@@ -1,4 +1,4 @@
-## Symfony 7 EasyAdmin Api-Platform template
+#Symfony 7 EasyAdmin & Api-Platform
 
 - rebase .env to .env.local
 - change DATABASE_URL
